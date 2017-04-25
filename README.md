@@ -1,1 +1,10 @@
 # learned-today
+1. react
+2. fetch
+3. json
+4. csv
+5. map
+6. regex
+7. replace
+8. component
+9. github
