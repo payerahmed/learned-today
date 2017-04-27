@@ -8,4 +8,4 @@
 7.  [replace](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
 8.  [component](https://facebook.github.io/react/docs/react-component.html)
 9.  [github](https://github.com)
-10. [splice](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/splice?v=example)
+10. [slice](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/slice?v=example)
